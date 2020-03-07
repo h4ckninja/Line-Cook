@@ -1,0 +1,7 @@
+name 'line_cook'
+maintainer 'Line Cook'
+maintainer_email 'the.authors@example.com'
+license 'MIT'
+description 'Installs/Configures Line Cook'
+version '1.0.0'
+chef_version '>= 12.0'
